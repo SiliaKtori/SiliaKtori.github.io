@@ -10,7 +10,7 @@ h1{
 }
 
 .height{
-	height:15%
+	height:15%;
 }
 .container{
 	background-color: #9bb0d4;
@@ -20,8 +20,9 @@ iframe{
 }
 .hero{
 	height: 14vh; /* For X% screen height */;
-	background-color:#9bb0d4 ;
+	background-color:#9bb0d4;
 }
+
 p{
 	font-weight: bold;
 	font-size: 18px;
