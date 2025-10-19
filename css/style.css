@@ -4,6 +4,9 @@ h1{
 	font-weight:bold;
 	background-color:#9bb0d4;
 	border:black;
+	font-family: serif;
+  /* Targets paragraph elements */
+  text-decoration: underline #194f35;
 }
 
 .height{
@@ -18,4 +21,8 @@ iframe{
 .hero{
 	height: 14vh; /* For X% screen height */;
 	background-color:#9bb0d4 ;
+}
+p{
+	font-weight: bold;
+	font-size: 18px;
 }
