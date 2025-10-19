@@ -1,0 +1,21 @@
+h1{
+	color:#black;
+	text-align:center;	
+	font-weight:bold;
+	background-color:#9bb0d4;
+	border:black;
+}
+
+.height{
+	height:15%
+}
+.container{
+	background-color: #9bb0d4;
+}
+iframe{
+	border: 6px solid black;
+}
+.hero{
+	height: 14vh; /* For X% screen height */;
+	background-color:#9bb0d4 ;
+}
